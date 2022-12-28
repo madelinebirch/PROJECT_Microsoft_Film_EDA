@@ -1,5 +1,6 @@
-   # DSC-Flex Phase 1 Project: Microsoft's Journey into Film: 3 Key Business Recommendations to Maximize Profit
+   # DSC-Flex Phase 1 Project: Microsoft's Journey into Film: 3 Key Business Recommendations to Maximize ROI
 
+File "Data/movies_metadata.csv" scraped from source:https://www.kaggle.com/datasets/fajim123/movies-metadata
 
 ## Determining dependent variable
   When pondering the possible dependent ariables I could measure the data against, I decided that 'profit' would be the most suitable. For a corporation like Microsoft, it made most sense to me that total net profit would be of highest interest to stakeholders. Where gross revenue can give an impressive look at how a specific film did in the boxoffice, both domestic and worldwide, net profit gives us the most accurate view on the company's financial health following an investment as grand as a movie production. Net profit provides payment to C-suite, reimburses production expenses, and increases the overall value of the company for shareholders across the globe.

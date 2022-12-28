@@ -1,4 +1,4 @@
-   # DSC-Flex Phase 1 Project: Microsoft's Journey into Film: 3 Key Business Recommendations to Maximize ROI
+   # DSC-Flex Phase 1 Project: Microsoft's Journey into Film: 3 Key Business Recommendations for Optimal ROI
 
 File "Data/movies_metadata.csv" scraped from source:https://www.kaggle.com/datasets/fajim123/movies-metadata
 

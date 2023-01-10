@@ -1,8 +1,10 @@
 
-https://unlocked.microsoft.com/wp-content/uploads/2022/05/Microsoft-logo_rgb_c-gray.png
 
-# DSC-Flex Phase 1 Project: Microsoft's Journey into Film: 3 Key Business Recommendations for Optimal ROI
-Author: Madeline Birch
+# DSC-Flex Phase 1 Project
+# Microsoft's Journey into Film
+## 3 Key Business Recommendations for Optimal ROI
+
+### Author: Madeline Birch
 
 # Overview
 
@@ -36,3 +38,10 @@ After manipulating and analyzing the data to find which genres have trended to y
 The time of year in which a film is release matters greatly to the studio's profit outcomes. Let's make a copy and sort through our previous DataFrame, clean it, and sort it to see which months yielded highest net revenues. A line graph profits skyrocketing between May and July, peaking the highest in June, with average profits hitting 16,142,140 USD. Profits spike again during the Holidays, hitting 11,571,850 USD in December. If Microsoft wants to be successful and reap the highest possible profit, they ought to market and release their films as either Summer or Christmas/New Years blockbuster events.
 
 
+# Repository structure
+
+├── Data
+├── Images
+├── notebook.ipynb
+├── microsoft_presentation.pdf
+└── README.md

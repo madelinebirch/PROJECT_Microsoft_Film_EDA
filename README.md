@@ -25,9 +25,10 @@ This project broadly scrutinizes data read through DataFrames using the PANDAS l
 
 # Outcomes
 
-### Independent variable 1: budget 
+### Independent variable 1: budget
 
-According to the data, high budgets tend overall to yield high profits. In this case, a high budget of over 100,000,000 USD can yield profits up to 1,433,854,864 - 2,351,345,279 USD. That's billions of potential dollars for Microsoft. They must ensure they spend high budgets wisely by hiring the best writers, actors, and production teams available to build the highest profitable film studio possible. A boxplot shows a high budget to high profit correlation. The box indicating high budget prodution is much longer and higher than the low and mid budget boxes, which shows that 50% of high budget films have a budget of over 100,000,000 and generate the highest profit. Microsoft has the potential to be as successful as James Cameron's Avatar, which made over 2 BILLION USD in profit! Wow.
+
+According to the data, high budgets tend overall to yield high profits. In this case, a high budget of over 100,000,000 USD can yield profits up to 1,433,854,864 - 2,351,345,279 USD. That's billions of potential dollars for Microsoft. They must ensure they spend high budgets wisely by hiring the best writers, actors, and production teams available to build the highest profitable film studio possible. A boxplot shows a high budget to high profit correlation. The box indicating high budget prodution is much longer and higher than the low and mid budget boxes, which shows that 50% of high budget films have a budget of over 100,000,000 and generate the highest profit. Microsoft has the potential to be as successful as James Cameron's Avatar, which made over 2 BILLION USD in profit! Wow
 
 ### Independent variable 2: genre
 

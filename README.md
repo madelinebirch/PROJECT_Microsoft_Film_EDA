@@ -1,7 +1,7 @@
 # Microsoft's Journey into Film
 ## 3 Key Business Recommendations for Optimal ROI
 
-![Screen%20Shot%202023-01-10%20at%207.20.09%20PM.png](attachment:Screen%20Shot%202023-01-10%20at%207.20.09%20PM.png)
+![Microsoft](Images/microsoft2.png)
 
 Author: Madeline Birch
 

@@ -15,7 +15,7 @@ This purpose of the project is to advise stakeholder Microsoft, a large technolo
 
 
 
-![pantheon_readme.png](attachment:pantheon_readme.png)
+![Studios](Images/pantheon_readme.png)
 
 
 # Business Problem
@@ -39,7 +39,7 @@ After sorting the data into low (up to 10 million USD), mid (between 10 and 100 
 
 
 
-![boxplot_readme.png](attachment:boxplot_readme.png)
+![Budget Boxplot](Images/boxplot_readme.png)
 
 ### Independent variable 2: genre
 
@@ -47,7 +47,7 @@ After manipulating and analyzing the data to find which genres have trended to y
 
 
 
-![barchart_readme.png](attachment:barchart_readme.png)
+![Genre Barchart](Images/barchart_readme.png)
 
 ### Independent variable 3: release month
 
@@ -57,7 +57,7 @@ The time of year in which a film is release matters greatly to the studio's prof
 
 
 
-![linegraph_readme.png](attachment:linegraph_readme.png)
+![Release Month Linegraph](Images/linegraph_readme.png)
 
 # Conclusion & Next Steps
 
